@@ -45,6 +45,12 @@ Specifically comparing weekly fares for each city type.
   - 4.47 times lower than suburban cities
 
 
+## Summary
+- More drivers should be allocated to servicing the rural and suburban areas.
+  - This will lower cost of rides, and increase the number of rides.
+- Drivers need to be limited in Urban areas
+  - This will increase cost of rides, likely not affect number of rides severely
+- 
 
 
 
