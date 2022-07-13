@@ -16,19 +16,38 @@ Specifically comparing weekly fares for each city type.
 
 - Rural cities have 1.6 times the number of rides to drivers
 
+### Average Fare per Ride
+- Rural cities have the highest average fare per ride at $34.62
+
+- Suburban cities have the second highest average fare per ride at $30.97
+
+- Urban cities have the lowest average fare per ride at $24.53
+
+### Average Fare per Driver
+- Rural cities have the highest average fare per driver at $55.49
+
+- Suburban cities have the second highest average fare per driver at $39.50
+
+- Urban cities have the lowest average fare per driver at $16.57
+
+
+![Total Fare by City Type](analysis/PyBer_fare_summary.png)
+
+
 ### Total Fares
 - Urban cities have the greatest total fares at $39,854.38
+
 - Suburban cities have the second highest total fares at $19,356.33
   - 2.06 times lower than urban cities
+
 - Rural cities have the lowest total fares at 4,327.93
   - 9.2 times lower than urban cities
   - 4.47 times lower than suburban cities
 
-### Average Fare per Ride
-- Rural cities have the highest average fare at $34.62
-- 
 
 
 
-![Total Fare by City Type](analysis/PyBer_fare_summary.png)
+
+
+
 
